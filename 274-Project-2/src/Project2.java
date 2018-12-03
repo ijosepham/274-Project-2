@@ -1,8 +1,8 @@
 /**
- * Author: Joey Pham
- * Date: 15 October 2018
- * Description: a user chooses a certain grid they want, program shows the grid and then
- * 				prints out how many "o" areas there are, and how many o's each area has
+ * @author: Joey Pham
+ * @date: 15 October 2018
+ * @description: a user chooses a certain grid they want, program shows the grid and then
+ * 	  			 prints out how many "o" areas there are, and how many o's each area has
  */
 
 import java.io.FileNotFoundException;
